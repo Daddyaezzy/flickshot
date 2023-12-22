@@ -1,40 +1,48 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## FLICKSHOT - TIKTOK CLONE
 
-## Getting Started
+Flickshot is a dynamic and interactive social media platform that mirrors the engaging features of TikTok. It allows users to upload videos, explore content from other creators, engage with posts through likes and comments, and view user profiles.
 
-First, run the development server:
+## FEATURES
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Video Uploads
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Seamlessly upload your videos and share your content with the Flickshot community.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Explore and Discover
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+Discover a wide array of content posted by other users on Flickshot.
+Engage with diverse videos and explore trending content.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## Interaction
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Like videos to show appreciation for the content you enjoy.
+Leave comments to express your thoughts and engage in discussions.
 
-## Learn More
+## User Profiles
 
-To learn more about Next.js, take a look at the following resources:
+View user profiles to explore their posted content and engagement.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## TECHNOLOGY STACK
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Flickshot is built using the following technologies:
 
-## Deploy on Vercel
+Next.js: Utilized for the frontend development, offering a highly efficient and reactive UI experience.
+Sanity.io: Powering the backend infrastructure and serving as the database for the application, ensuring efficient data management and storage.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## GETTING STARTED
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+To run Flickshot locally, follow these steps:
+
+Clone this repository.
+Install the necessary dependencies using npm install.
+Set up your Sanity.io backend and database. Refer to the Sanity.io documentation for guidance.
+Start the application using npm run dev.
+Access the application through your browser at http://localhost:3000.
+
+## CONTRIBUTION
+
+Contributions to Flickshot are welcome! If you'd like to contribute, please fork the repository and create a pull request.
+
+## FEEDBACK AND ISSUES
+
+If you encounter any issues or have suggestions for improvements, feel free to raise an issue on the repository.
